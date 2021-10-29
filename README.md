@@ -1,4 +1,4 @@
-# simple_py_file_print_script
+# A simple python script to print files in order
 A simple script that when specified a directory, will print the path to every file or specific file format inside it and inside its subdirectories.
 
 Features :
